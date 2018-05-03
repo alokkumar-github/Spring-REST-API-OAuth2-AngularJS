@@ -1,5 +1,7 @@
 # Spring-REST-API-OAuth2-AngularJS
 
+https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
+https://github.com/adamzareba/company-structure-spring-security-oauth2-authorities
 
 https://www.youtube.com/watch?v=LnJsspvxE1c
 
